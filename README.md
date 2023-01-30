@@ -1,1 +1,1 @@
-# Sketch-App-In-Turtle
+i have created a sketch app using turtle, in this program i have created five funtions - move_forward to move front, move_backward to move back, turn_left for turning left, turn_right for turning right and clear for clearing the whole diagram and bringing the turtle to the same position you have started drawing. I have used onkey method of screen class to pass my function as a parameter and a key for eack function to be performed.
